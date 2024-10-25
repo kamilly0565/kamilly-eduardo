@@ -1,0 +1,64 @@
+css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50; /* Verde */
+    color: white;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+.excursao-item {
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.excursao-item h3 {
+    margin-top: 0;
+}
+
+.botao {
+    display: inline-block;
+    background-color: #4CAF50; /* Verde */
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.botao:hover {
+    background-color: #45a049; /* Verde escuro */
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+}
+.IMAGEM1 {
+    width: 15%;
+}
